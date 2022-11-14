@@ -2,15 +2,15 @@
 <div align="center">
 <a href="https://ibb.co/SKXCZHR"><img src="https://images6.alphacoders.com/102/1024472.png" alt="2258810" border="0" /></a>
 
-# **NEZUKO : MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
+# **SHELBY : MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
 </p>
 <p align="center">
 <a href="https://github.com/pratyush4932"><img title="Author" src="https://img.shields.io/badge/Author-Pratyush-red.svg?style=for-the-badge&logo=github"></a>
 </p>
- <a href="https://github.com/EternityBots/Nezuko/blob/main/LICENSE">
+ <a href="https://github.com/well300/shelby/blob/main/LICENSE">
   
-<img src='https://img.shields.io/github/license/EternityBots/Nezuko?color=%231e81b0&style=for-the-badge'>
+<img src='https://img.shields.io/github/license/well300/shelby?color=%231e81b0&style=for-the-badge'>
   
 
 <p align="center">
@@ -23,14 +23,14 @@
 ## 📚 Information 📚
 > A simple and easy-to-use WhatsApp bot project with cool Features based on Multi-Device Baileys and written in JavaScript.
 
-## 💖 NEZUKO 💖
+## 💖 shelby 💖
 > This is a open source project by the TEAM ETERNITY. After forking If you change any codes and claim That's yours then Our Team will Take Action In that case so be careful and give Credit To The original Devloper of that Bot. if you Have any Questions Then Join Our support Group To Report Your Issues.
 
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JCCZPbPUbM1536n62zSFZi)
 
 ## 💡 License
 
- Nezuko is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/EternityBots/Nezuko/blob/main/LICENSE).
+ shelby is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/well300/shelby/blob/main/LICENSE).
 
 
 
@@ -41,7 +41,7 @@
 
 ## Clone this project
 ```bash
-> git clone https://github.com/Eternity-Bots/Nezuko
+> git clone https://github.com/Eternity-Bots/shelby
 ```
 
 ## Installation:
@@ -84,8 +84,8 @@ Useless Worker | Contributor |
 <a href="https://github.com/iamherok"><img src="https://github.com/iamherok.png?size=100" width="100" height="100"></a> | [![Alι_Aryαɴ](https://github.com/AliAryanTech.png?size=100)](https://github.com/AliAryanTech) 
 [Tomioka](https://github.com/iamherok)  | [Alι_Aryαɴ](https://github.com/AliAryanTech)
 Contributor | Contributor |
-<a href="https://github.com/FantoX001"><img src="https://github.com/FantoX001.png?size=100" width="100" height="100"></a> | [![Well/300>](https://github.com/well300.png?size=100)](https://github.com/well300)
-[Fantox](https://github.com/FanotX001)   | [Well/300>](https://github.com/well300)
+<a href="https://github.com/FantoX001"><img src="https://github.com/FantoX001.png?size=100" width="100" height="100"></a> | [![Well/300>](https://github.com/well30000.png?size=100)](https://github.com/well30000)
+[Fantox](https://github.com/FanotX001)   | [Well/300>](https://github.com/well30000)
 Contributor | Contributor |
 <a href="https://github.com/Chey-san"><img src="https://github.com/Chey-san.png?size=100" width="100" height="100"></a> | [![SaruMan_sama](https://github.com/SarumanSama.png?size=100)](https://github.com/SarumanSama)
 [Chey_San](https://github.com/Chey-san)   | [SaruMan](https://github.com/SarumanSama)
