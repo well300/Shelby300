@@ -1,20 +1,14 @@
 
 <div align="center">
-<a href="https://ibb.co/SKXCZHR"><img src="https://images6.alphacoders.com/102/1024472.png" alt="2258810" border="0" /></a>
+<img src="https://images.immediate.co.uk/production/volatile/sites/3/2022/03/372343-0af0a4b.jpg?quality=90&crop=880px,118px,2503px,1667px&resize=980,654" alt="well300"/>
 
 # **SHELBY : MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
 </p>
-<p align="center">
-<a href="https://github.com/pratyush4932"><img title="Author" src="https://img.shields.io/badge/Author-Pratyush-red.svg?style=for-the-badge&logo=github"></a>
-</p>
  <a href="https://github.com/well300/shelby/blob/main/LICENSE">
   
 <img src='https://img.shields.io/github/license/well300/shelby?color=%231e81b0&style=for-the-badge'>
-  
 
-<p align="center">
-<a href="https://github.com/pratyush4932"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5%EF%B8%8F-blue.svg?style=for-the-badge"></a>
 <a href="https://github.com/is7s7whs"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge"></a>
 </p>
 
